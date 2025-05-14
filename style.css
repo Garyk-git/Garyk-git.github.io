@@ -15,7 +15,7 @@ body {
     margin: 2px;
 }
 .line {
-    border: 7px solid #00897b;
+    border: 7.5px solid #00897b;
     display: flex;
     justify-content: center;
     align-items: center;
