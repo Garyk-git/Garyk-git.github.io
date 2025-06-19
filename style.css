@@ -20,6 +20,10 @@ body {
     font-family: Arial;
     height: 50px;
 }
+h2 {
+    font-size: 40px;
+    font-family: Arial;
+}
 
 .game {
     width: 360px;
