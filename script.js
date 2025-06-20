@@ -93,7 +93,7 @@ function win() {
             res.innerText = 'Ничья';
                 sound.setAttribute('src', 'audio/draw.mp3');
                 sound.play();
-            }, 1500)
+            }, 1450)
             game.removeEventListener('click', init);
         }
     }
