@@ -3,6 +3,7 @@
 }
 
 .nav {
+	position: fixed;
 	justify-content: center;
 	gap: 50px;
 	background: #f8f8f8;
@@ -16,11 +17,7 @@
 	font-weight: 500;
 }
 
-.nav {
-	position: sticky;
-	top: 0;
-	z-index: 100;
-}
+
 
 body {
     height: 100vh;
@@ -102,6 +99,7 @@ h1 {
     stroke-dashoffset: 125;
     animation: drow 0.6s 0.6s forwards;
 }
+
 
 
 
