@@ -18,6 +18,24 @@ body {
     font-family: sans-serif;
 }
 
+.nav {
+	display: flex;
+	top: 0;
+	justify-content: center;
+	gap: 50px;
+	background: #f8f8f8;
+	padding: 0px auto;
+	box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.nav a {
+	text-decoration: none;
+	color: #333;
+	font-weight: 500;
+}
+
+
+
 .game {
     border: 3px solid #fff;
     width: 100%;
@@ -219,4 +237,5 @@ body {
     .game h1 {
         font-size: 20px;
     }
+
 }
