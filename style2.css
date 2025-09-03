@@ -9,11 +9,8 @@ body {
 
 .nav {
 	position: absolute;
-    top: 70px;
-	gap: 100px;
+    top: 50px;
     left: center;
-	width: 300px;
-	
      }  
 
                 
@@ -152,6 +149,7 @@ font-weight: 500;
             color: black;   
 
          }
+
 
 
 
