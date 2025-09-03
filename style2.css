@@ -1,9 +1,31 @@
+
 body {
     background: #64b5f6;
     height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.nav {
+	display: flex;
+	justify-content: center;
+	gap: 50px;
+	background: #f8f8f8;
+	padding: 0px auto;
+	box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.nav a {
+	text-decoration: none;
+	color: #333;
+	font-weight: 500;
+}
+
+.nav {
+	position: sticky;
+	top: 0;
+	z-index: 100;
 }
 
 .clock {
@@ -132,4 +154,5 @@ body {
             left: 65px;
             box-shadow:  0 0 20px 10px rgba(0, 0, 0, 0.6);
             color: black;   
+
          }
