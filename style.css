@@ -5,9 +5,9 @@
 .nav {
 	display: flex;
 	justify-content: center;
-	gap: 30px;
+	gap: 50px;
 	background: #f8f8f8;
-	padding: 15px 0;
+	padding: 0 0;
 	box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
 
@@ -103,6 +103,7 @@ h1 {
     stroke-dashoffset: 125;
     animation: drow 0.6s 0.6s forwards;
 }
+
 
 
 
