@@ -11,6 +11,7 @@ body {
 	position: absolute;
     top: 50px;
     left: center;
+    margin: 0 10px;
      }  
 
                 
@@ -149,6 +150,7 @@ font-weight: 500;
             color: black;   
 
          }
+
 
 
 
