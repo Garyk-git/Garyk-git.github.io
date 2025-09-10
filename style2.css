@@ -11,7 +11,6 @@ body {
 	position: absolute;
     top: 50px;
     left: center;
-    margin: 0 20px;
      }  
 
                 
@@ -19,6 +18,7 @@ body {
 text-decoration: none;
 color: #333;
 font-weight: 500; 
+margin: 0 20px;
 }
 
 
@@ -151,6 +151,7 @@ font-weight: 500;
             color: black;   
 
          }
+
 
 
 
