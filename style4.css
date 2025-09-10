@@ -6,6 +6,7 @@
 }
 body {
     height: 100vh;
+    width: 100vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -41,4 +42,5 @@ body {
     border-color: #5b6adc;
     border-right-color: transparent;
     animation-timing-function: linear;
+
 }
