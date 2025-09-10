@@ -7,23 +7,20 @@ body {
     align-items: center;
 }
 
-/* .nav {
+.nav {
 	position: absolute;
     top: 50px;
     left: center;
-    margin: 0 10px;
+    margin: 0 20px;
      }  
 
                 
 .nav a {
 text-decoration: none;
 color: #333;
-font-weight: 500;
-    } */
+font-weight: 500; 
 }
-.nav a {
-    margin: 0 10px;
-}
+
 
 
 .clock {
@@ -154,6 +151,7 @@ font-weight: 500;
             color: black;   
 
          }
+
 
 
 
