@@ -7,11 +7,11 @@ body {
     align-items: center;
 }
 
-/* .nav {
+.nav {
 	position: absolute;
     top: 50px;
     left: center;
-     }   */
+     }  
 
                 
 .nav a {
@@ -149,6 +149,7 @@ font-weight: 500;
             color: black;   
 
          }
+
 
 
 
